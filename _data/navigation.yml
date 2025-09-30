@@ -11,7 +11,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
 
   - title: "Teaching"
@@ -24,10 +24,11 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: /files/Yiming_Emmett_Peng_CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
