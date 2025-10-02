@@ -80,7 +80,7 @@ author_profile: true
 
   <div class="participation">
     <div class="participation-image">
-      <img src="https://emmett-peng.github.io/images/case_study.JPG" alt="BCG Platinion Hackathon">
+      <img src="https://emmett-peng.github.io/images/case_study_1.JPG" alt="BCG Platinion Hackathon">
     </div>
     <div class="participation-content">
       <h3>Winner-Case Studies in Data Analysis Competition, SSC 2025</h3>
