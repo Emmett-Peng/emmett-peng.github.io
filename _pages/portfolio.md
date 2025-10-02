@@ -80,7 +80,7 @@ author_profile: true
 
   <div class="participation">
     <div class="participation-image">
-      <img src="https://emmett-peng.github.io/images/case_study_1.jpeg" alt="BCG Platinion Hackathon">
+      <img src="https://emmett-peng.github.io/images/case_study_1.jpeg" alt="2025 SSC Case Study">
     </div>
     <div class="participation-content">
       <h3>Winner-Case Studies in Data Analysis Competition, SSC 2025</h3>
@@ -91,28 +91,20 @@ author_profile: true
     </div>
   </div>
 
-  <div class="participation">
+   <div class="participation">
     <div class="participation-image">
-      <img src="https://abirharrasse.github.io/images/iot_challenge.png" alt="IoT&AI Challenge: Sehhatech">
+      <img src="https://emmett-peng.github.io/images/cssc.jpg" alt="CSSC conference">
     </div>
     <div class="participation-content">
-      <h3>IoT&AI Challenge: Sehhatech</h3>
-      <p class="team-members">Abir HARRASSE, Yassmine ED-DYB, Soufiane Dahimi</p>
-      <p>Sehhatech is an AI medical assistant that gathers patient info, generates reports, and connects patients to the right specialists, enhancing healthcare efficiency.</p>
-      <p><strong>Finalist at IoT&AI Challenge</strong></p>
-      <a href="https://github.com/MoroccoAI/2023-GenAI-Hackathon/tree/main/SehhaTech" class="view-presentation" target="_blank">[Presentation and Code]</a>
+      <h3>Oral Presentation, Canadian Statistics Student Conference (CSSC) 2025</h3>
+      <p class="team-members"> Yiming (Emmett) Peng, Victoria Truong, Aoqi Xie, Yu Shi, Pingzhao Hu</p>
+      <p>A Developed an LLM-driven framework that integrates scRNA-seq with foundation model embeddings to identify cell type–specific biomarkers, achieving superior prediction of breast cancer treatment response compared to baseline models.</p>
+      <p><strong>This work was recognized with a CSSC Travel Award.</strong></p>
+      <a href="https://emmett-peng.github.io/files/Emmett Peng CSSC Oral Presentation.pdf" target="_blank">[View Presentation]</a>
     </div>
   </div>
-    <h2>Relevant Projects</h2>
-    <div class="participation">
-    <div class="participation-image">
-        <img src="https://abirharrasse.github.io/images/kg.png" alt="Knowledge Graph Construction Project">
-    </div>
-    <div class="participation-content">
-        <h3>Knowledge Graph Construction with LLMs</h3>
-        <p>This project explores methods for leveraging LLMs to construct Knowledge Graphs (KGs) and perform accurate Question Answering (QA). We focus on refining KG extraction techniques and evaluate the trade-offs between KGs and vector databases for knowledge storage and querying. Additionally, we investigate approaches for tracking the origin of facts used in KG creation.</p>
-        <a href="https://github.com/abirharrasse/LLM-Powered-Knowledge-Graphs-for-Question-Answering" class="view-presentation" target="_blank">[Github Repo]</a>
-    </div>
+
+  
 </div>
 
 </div>
