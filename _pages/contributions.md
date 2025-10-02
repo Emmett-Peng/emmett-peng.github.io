@@ -86,7 +86,7 @@ author_profile: true
       <h3>Job Hunting Q&A Session</h3>
       <p class="Organizer"> Yiming (Emmett) Peng, Qiyue (Lily) Zhang, BUGS</p>
       <p>A Organized and hosted a Job Hunting Q&A Session with MSc Biostatistics alumni, providing students with practical career advice, networking opportunities, and insights into roles in healthcare and clinical trials.</p>
-      <a href="[https://biostatistics-union-of-grad-students.github.io/seminar/2025/01/21/2025-Job-Hunting]" target="_blank">[View Event Details]</a>
+      <a href="https://biostatistics-union-of-grad-students.github.io/seminar/2025/01/21/2025-Job-Hunting" target="_blank">[View Event Details]</a>
     </div>
   </div>
 
