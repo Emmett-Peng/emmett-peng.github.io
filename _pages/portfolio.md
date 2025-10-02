@@ -84,7 +84,7 @@ author_profile: true
     </div>
     <div class="participation-content">
       <h3>Winner-Case Studies in Data Analysis Competition, SSC 2025</h3>
-      <p class="team-members"> Jiahui Zhang, Yu Shi, Aoqi Xie, and Yiming (Emmett) Peng</p>
+      <p class="team-members"> Jiahui Zhang, Yu Shi, Aoqi Xie, Yiming (Emmett) Peng</p>
       <p>A Ranked Developed an end-to-end deep learning model combining TabTransformer, DeepHit, SHAP, and conformal prediction to improve the accuracy, interpretability, and uncertainty calibration of atrial fibrillation risk prediction.</p>
       <p><strong>Ranked 1st out of 16 teams in the 2025 SSC Case Study Competition (Case Study #1): Prediction of New Onset Atrial Fibrillation Using Routinely Reported 12-Lead ECG Variables and Electronic Health Data.</strong></p>
       <a href="https://emmett-peng.github.io/files/SSC_Case Study Poster 0523.pdf" target="_blank">[View Presentation]</a>
