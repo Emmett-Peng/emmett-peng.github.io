@@ -76,18 +76,18 @@ author_profile: true
 </style>
 
 <div class="portfolio">
-  <h2>Hackathons and Awards</h2>
+  <h2>Presentations and Awards</h2>
 
   <div class="participation">
     <div class="participation-image">
-      <img src="https://abirharrasse.github.io/images/BCG_hack.png" alt="BCG Platinion Hackathon">
+      <img src="https://emmett-peng.github.io/images/case_study.JPG" alt="BCG Platinion Hackathon">
     </div>
     <div class="participation-content">
-      <h3>BCG Platinion Hackathon: Libera - Perfect Match, Faster Dispatch</h3>
-      <p class="team-members">Abir HARRASSE, Doha JOUAY, Mountasser LABCHIRI, Ahmed MRABET</p>
-      <p>A mobility solution designed for informal sector inclusion and integration of regular drivers into the grocery store logistics loop, with a crisis component for events like Morocco's latest earthquake.</p>
-      <p><strong>First place nationally. Second place internationally.</strong></p>
-      <a href="https://abirharrasse.github.io/files/BCG_Platinion_Presentation.pdf" target="_blank">[View Presentation]</a>
+      <h3>Winner-Case Studies in Data Analysis Competition, SSC 2025</h3>
+      <p class="team-members"> Jiahui Zhang, Yu Shi, Aoqi Xie, and Yiming (Emmett) Peng</p>
+      <p>A Ranked Developed an end-to-end deep learning model combining TabTransformer, DeepHit, SHAP, and conformal prediction to improve the accuracy, interpretability, and uncertainty calibration of atrial fibrillation risk prediction.</p>
+      <p><strong>Ranked 1st out of 16 teams in the 2025 SSC Case Study Competition (Case Study #1): Prediction of New Onset Atrial Fibrillation Using Routinely Reported 12-Lead ECG Variables and Electronic Health Data.</strong></p>
+      <a href="https://emmett-peng.github.io/files/SSC_Case Study Poster 0523.pdf" target="_blank">[View Presentation]</a>
     </div>
   </div>
 
