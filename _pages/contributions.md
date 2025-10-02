@@ -76,33 +76,21 @@ author_profile: true
 </style>
 
 <div class="portfolio">
-  <h2>Presentations and Awards</h2>
+  <h2>Organized Events</h2>
 
   <div class="participation">
     <div class="participation-image">
-      <img src="https://emmett-peng.github.io/images/case_study_1.jpeg" alt="2025 SSC Case Study">
+      <img src="https://emmett-peng.github.io/images/bugs_1.jpeg" alt="BUGS Event">
     </div>
     <div class="participation-content">
-      <h3>Winner-Case Studies in Data Analysis Competition, SSC 2025</h3>
-      <p class="team-members"> Jiahui Zhang, Yu Shi, Aoqi Xie, and Yiming (Emmett) Peng</p>
-      <p>A Ranked Developed an end-to-end deep learning model combining TabTransformer, DeepHit, SHAP, and conformal prediction to improve the accuracy, interpretability, and uncertainty calibration of atrial fibrillation risk prediction.</p>
-      <p><strong>Ranked 1st out of 16 teams in the 2025 SSC Case Study Competition (Case Study #1): Prediction of New Onset Atrial Fibrillation Using Routinely Reported 12-Lead ECG Variables and Electronic Health Data.</strong></p>
-      <a href="https://emmett-peng.github.io/files/SSC_Case Study Poster 0523.pdf" target="_blank">[View Presentation]</a>
+      <h3>Job Hunting Q&A Session</h3>
+      <p class="Organizer"> Yiming (Emmett) Peng, Qiyue (Lily) Zhang, BUGS</p>
+      <p>A Organized and hosted a Job Hunting Q&A Session with MSc Biostatistics alumni, providing students with practical career advice, networking opportunities, and insights into roles in healthcare and clinical trials.</p>
+      <a href="[https://emmett-peng.github.io/files/SSC_Case Study Poster 0523.pdf](https://biostatistics-union-of-grad-students.github.io/seminar/2025/01/21/2025-Job-Hunting)" target="_blank">[View Event Details]</a>
     </div>
   </div>
 
-   <div class="participation">
-    <div class="participation-image">
-      <img src="https://emmett-peng.github.io/images/cssc.jpg" alt="CSSC conference">
-    </div>
-    <div class="participation-content">
-      <h3>Oral Presentation, Canadian Statistics Student Conference (CSSC) 2025</h3>
-      <p class="team-members"> Yiming (Emmett) Peng, Victoria Truong, Aoqi Xie, Yu Shi, Pingzhao Hu</p>
-      <p>A Developed an LLM-driven framework that integrates scRNA-seq with foundation model embeddings to identify cell type–specific biomarkers, achieving superior prediction of breast cancer treatment response compared to baseline models.</p>
-      <p><strong>This work was recognized with a CSSC Travel Award.</strong></p>
-      <a href="https://emmett-peng.github.io/files/Emmett Peng CSSC Oral Presentation.pdf" target="_blank">[View Presentation]</a>
-    </div>
-  </div>
+
 
   
 </div>
