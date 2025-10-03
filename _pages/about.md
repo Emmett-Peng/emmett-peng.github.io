@@ -13,4 +13,4 @@ My research spans **causal inference, latent class analysis, and the use of stat
 
 I am a student member of the [**Health Data Working Group**](https://health-data-working-group.github.io/) at the Dalla Lana School of Public Health. Within my department, I serve as an MSc Representative (2025–2026) and as a Seminar Committee member (2024–2025) for the [**Biostatistics Union of Graduate Students (BUGS)**](https://biostatistics-union-of-grad-students.github.io/about).
 
-Beyond research, I enjoy live concerts, traveling, and playing football and badminton.
+Beyond research, I enjoy live concerts, traveling, and playing football and badminton. 
