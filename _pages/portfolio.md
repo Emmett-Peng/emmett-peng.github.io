@@ -100,7 +100,7 @@ author_profile: true
       <p class="team-members"> Yiming (Emmett) Peng, Victoria Truong, Aoqi Xie, Yu Shi, Pingzhao Hu</p>
       <p>A Developed an LLM-driven framework that integrates scRNA-seq with foundation model embeddings to identify cell type–specific biomarkers, achieving superior prediction of breast cancer treatment response compared to baseline models.</p>
       <p><strong>This work was recognized with a CSSC Travel Award.</strong></p>
-      <a href="https://emmett-peng.github.io/files/Emmett Peng CSSC Oral Presentation.pdf" target="_blank">[View Presentation]</a>
+      <a href="https://emmett-peng.github.io/files/Oral Presentation.pdf" target="_blank">[View Presentation]</a>
     </div>
   </div>
 
